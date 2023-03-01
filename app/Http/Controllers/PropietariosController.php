@@ -56,8 +56,6 @@ class PropietariosController extends Controller
     {
         $propietario = Propietarios::find($id);
         $propietario->delete();
-        return redirect('propietarios');
-
-        
+        return redirect('propietarios');        
     }
 }

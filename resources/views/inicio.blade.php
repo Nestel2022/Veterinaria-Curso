@@ -5,8 +5,8 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Veterinaria</title>
-    <link href="{{asset('public/css/bootstrap.min.css')}}" rel="stylesheet">
-    <link href="{{asset('public/css/all.min.css')}}" rel="stylesheet">
+    <link href="{{asset('css/bootstrap.min.css')}}" rel="stylesheet">
+    <link href="{{asset('css/all.min.css')}}" rel="stylesheet">
 </head>
 <body>
 
@@ -41,5 +41,5 @@
     
 </body>
 
-<script type="text/javascript" src="{{asset('public/js/bootstrap.bundle.js')}}"></script>
+<script type="text/javascript" src="{{asset('js/bootstrap.bundle.js')}}"></script>
 </html>

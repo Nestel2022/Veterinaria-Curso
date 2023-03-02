@@ -4,7 +4,7 @@ use Illuminate\Support\Facades\Route;
 
 
 Route::get('/', function () {
-    return view('inicio');
+    return view('welcome');
 });
 
 // Route::resource('propietarios', App\Http\Controllers\PropietariosController::class);

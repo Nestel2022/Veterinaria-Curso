@@ -5,7 +5,6 @@
             <div class="d-grid gap-2 d-md-flex justify-content-md-end mb-3">
                 <button class="btn btn-dark" data-bs-toggle="modal" data-bs-target="#modalMascotas">
                     <i class="fa-solid fa-circle-plus"></i> Nueva Mascota
-
                 </button>
             </div>
             <div class="table-responsive">
